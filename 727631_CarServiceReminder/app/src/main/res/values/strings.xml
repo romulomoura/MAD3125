@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Car Service Reminder</string>
+    <string name="title_activity_splash">Mid Term Test Android</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="service_prompt">Choose a service</string>
+
+    <string-array name="service_type">
+        <item>Oil</item>
+        <item>Lining</item>
+        <item>Wheel Alignment</item>
+        <item>Engine Inspection</item>
+        <item>Timing Belt</item>
+    </string-array>
+
+    <string name="station_prompt">Choose a Service Station</string>
+
+    <string-array name="station_name">
+        <item>Paragon Auto Repair</item>
+        <item>Sunnys's Auto Clinic</item>
+        <item>McDermott Motors Tirecraft</item>
+        <item>Midas Auto Service and Tires</item>
+        <item>Cam's Auto Service</item>
+    </string-array>
+
+</resources>
+
+
